@@ -23,6 +23,12 @@
     margin: 10px 0;
 }
 
+.container .cabecera{
+    margin: 2rem;
+    font-size: 4rem;
+    box-shadow: 4px 4px 7px 6px rgba(255,255,255,1);
+}
+
 .post{
     border: 1px solid black;
     padding: 2rem;
